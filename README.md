@@ -5,7 +5,7 @@ Aplikasi mini blog sederhana CRUD dengan framwork Laravel.
 ## Fitur
 
 - Register, login, logout
-- CRUD post
+- CRUD 
 - Tampilkan daftar post + author
 - Search berdasarkan judul
 
