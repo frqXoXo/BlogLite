@@ -71,4 +71,4 @@ Buka di browser: http://127.0.0.1:8000
 
 ## Catatan
 
-Proyek ini dibuat untuk tugas praktikum dan belajar dasar Laravel.
+Proyek ini dibuat untuk tugas praktikum bab 10 dan belajar dasar Laravel.
