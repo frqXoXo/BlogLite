@@ -69,6 +69,12 @@ php artisan serve
 
 Buka di browser: http://127.0.0.1:8000
 
-## Catatan
+## Catatan Tambahan
+1. Pastikan sudah membuat database MySQL terlebih dahulu sebelum menjalankan migration.
+2. Sesuaikan nama database pada file .env dengan database lokal yang dibuat.
+3. Disarankan menggunakan terminal Command Prompt (CMD) atau terminal bawaan Laragon saat menjalankan command seperti:
+   -npm install
+   -npm run dev
+   Hindari menggunakan PowerShell apabila muncul error execution policy pada npm.
 
-Proyek ini dibuat untuk tugas praktikum bab 10 dan belajar dasar Laravel.
+
